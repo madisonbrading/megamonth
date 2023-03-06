@@ -7,7 +7,7 @@
 COOKIE_KEY = ''
 
 # GCP project info
-GOOGLE_PROJECT_ID = "flow-app-xxxx"
+GOOGLE_PROJECT_ID = "megamonth"
 GOOGLE_PROJECT_NO = 0
 
 # Create an oauth 2.0 web client ID from GCP console
