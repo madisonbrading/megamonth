@@ -1,13 +1,13 @@
 # General info
 
-AUTHOR_NAME = "Jeremy Gordon"
-SITENAME = "Flow"
+AUTHOR_NAME = "Madison Brading"
+SITENAME = "Mega Month"
 EMAIL_PREFIX = "[ Flow ] "
-TAGLINE = "A personal dashboard to focus on what matters"
+TAGLINE = "A personal habit tracker for Dr. Fox"
 SECURE_BASE = "https://flowdash.co"
 
 # Emails
-APP_OWNER = "onejgordon@gmail.com"
+APP_OWNER = "brading@usc.edu"
 ADMIN_EMAIL = APP_OWNER
 DAILY_REPORT_RECIPS = [APP_OWNER]
 SENDER_EMAIL = APP_OWNER
